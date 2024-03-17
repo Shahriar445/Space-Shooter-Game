@@ -10,6 +10,20 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using WMPLib;
 
+/*
+ *                                                  International University of Business Agriculture and Technology
+ *                                            
+ *                                                  Project Name: Space shooter 
+ *                                                  Department: BCSE
+ *                                                  Semester:4th year
+ *                                                  Owner Name: Md Shahriar Haque
+ *                                                  Technology: C#/Asp.net Framework
+ *                                                  
+ *                                                  
+
+
+*/
+
 namespace Space_Shooter
 {
     public partial class Form1 : Form
